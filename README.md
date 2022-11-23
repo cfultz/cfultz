@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cfultz
+- 👋 Hi, I’m @cfultz. I work for the National Radio Astronomy Observatory in Charlottesville, VA as a Linux Systems Adminsistrator III.
 - 👀 I’m interested in Linux, Gaming on Linux, Urban Farming, Microfarming, Android, Subarus, and Communication.
 - 🌱 I’m currently learning Python, Bash, SLURM, and C+.
 - 💞️ I’m looking to collaborate on OpenHPC as I'm currently building a cluster at work.
