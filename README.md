@@ -2,7 +2,7 @@
 - 👀 I’m interested in Linux, Gaming on Linux, Urban Farming, Microfarming, Android, Subarus, and Communication.
 - 🌱 I’m currently learning Python, Bash, SLURM, and C+.
 - 💞️ I’m looking to collaborate on OpenHPC as I'm currently building a cluster at work.
-- 📫 How to reach me: caleb@fultz.dev, on <a rel="me" href="https://fosstodon.org/@cfultz">Mastodon</a>, on <a href="https://twitter.com/cfultz">Twitter</a>.
+- 📫 How to reach me: caleb@fultz.dev, on <a rel="me" href="https://cfultz.com/@cfultz">Mastodon</a>, on <a href="https://twitter.com/cfultz">Twitter</a>.
 
 <!---
 cfultz/cfultz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
