@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @cfultz. I work for the National Radio Astronomy Observatory in Charlottesville, VA as a Linux Systems Adminsistrator III.
+- 👋 Hi, I’m @cfultz. I work for the University of Virginia in Charlottesville, VA as a Research Computing Engineer.
 - 👀 I’m interested in Linux, Gaming on Linux, Android, and Subarus.
 - 🌱 I’m currently learning Python and GDScript.
-- 💞️ I’m looking to collaborate on OpenHPC as I'm currently building a cluster at work.
 - 📫 How to reach me: caleb@fultz.dev and on <a rel="me" href="https://cfultz.com/@cfultz">Mastodon</a>
 
 <!---
